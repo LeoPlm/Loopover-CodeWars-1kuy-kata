@@ -1,13 +1,12 @@
 # 🌀 Loopover Solver — Codewars 1 kyu
 
-This project contains my solution to the **Loopover** challenge (1 kyu on Codewars).  
-No AI could solve it, but I did 😄  
+Here you can find my solution to the **Loopover** challenge (1 kyu on Codewars).
 
 ## 🧩 About the challenge
 The goal is to reorder a scrambled grid into its solved state by shifting rows and columns, like a 2D Rubik’s Cube.  
 👉 Try it yourself here: [loopover.xyz](https://loopover.xyz)
 
-## 🧠 Logic behind my solution
+## 🧠 Logic behind this solution
 The idea was to define a clear and deterministic process before coding:
 1. Keep the **last column empty** to move numbers without breaking the order.
 2. Solve the grid row by row, stopping before the last column and last row.
