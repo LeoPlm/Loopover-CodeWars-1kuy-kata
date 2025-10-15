@@ -1,7 +1,7 @@
 # 🌀 Loopover Solver — Codewars 1 kyu
 
 This project contains my solution to the **Loopover** challenge (1 kyu on Codewars).  
-No AI could solve it — but I did 😄  
+No AI could solve it, but I did 😄  
 
 ## 🧩 About the challenge
 The goal is to reorder a scrambled grid into its solved state by shifting rows and columns, like a 2D Rubik’s Cube.  
